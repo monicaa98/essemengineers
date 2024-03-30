@@ -48,6 +48,10 @@
 	margin-left: 0%;
 	text-align: center;
 }
+
+.tdClass {
+    padding: 0px 47px;
+}
 	  
 }
 
@@ -135,6 +139,10 @@
 	margin-left: 0%;
 	text-align: center;
 }
+
+	.tdClass {
+    padding: 0px 47px;
+}
 }
 
 @media (max-width: 576px) {
@@ -153,6 +161,10 @@
 	text-align: center;
 }
 
+	.tdClass {
+    padding: 0px 47px;
+}
+
 }
 
 @media (max-width: 480px) {}
@@ -168,6 +180,15 @@
   .info_section .info_logo .navbar-brand span {
     font-size: 19px;
     color: #ffffff;
+}
+
+	.tdClass {
+    padding: 0px 47px;
+}
+
+	.infoGSTN {
+	margin-left: 0%;
+	text-align: center;
 }
 }
 
