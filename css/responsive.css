@@ -38,6 +38,12 @@
   .sub_page .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item .nav-link {
     padding-bottom: 15px;
   }
+  
+  .info_section .info_logo .navbar-brand span {
+    font-size: 19px;
+    color: #ffffff;
+}
+	  
 }
 
 @media (max-width: 768px) {
@@ -114,6 +120,11 @@
   .info_section .info_form .social_box a {
     margin: 0 5px;
   }
+  
+  .info_section .info_logo .navbar-brand span {
+    font-size: 19px;
+    color: #ffffff;
+}
 }
 
 @media (max-width: 576px) {
@@ -121,6 +132,11 @@
     font-size: 3.5rem;
     line-height: 55px;
   }
+  
+  .info_section .info_logo .navbar-brand span {
+    font-size: 19px;
+    color: #ffffff;
+}
 }
 
 @media (max-width: 480px) {}
@@ -132,10 +148,20 @@
     font-size: 3rem;
     line-height: 45px;
   }
+  
+  .info_section .info_logo .navbar-brand span {
+    font-size: 19px;
+    color: #ffffff;
+}
 }
 
 @media (min-width: 1200px) {
   .container {
     max-width: 1170px;
   }
+  
+  .info_section .info_logo .navbar-brand span {
+    font-size: 19px;
+    color: #ffffff;
+}
 }
