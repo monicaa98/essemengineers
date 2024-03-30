@@ -43,6 +43,11 @@
     font-size: 19px;
     color: #ffffff;
 }
+
+.infoGSTN {
+	margin-left: 0%;
+	text-align: center;
+}
 	  
 }
 
@@ -125,6 +130,11 @@
     font-size: 19px;
     color: #ffffff;
 }
+
+.infoGSTN {
+	margin-left: 0%;
+	text-align: center;
+}
 }
 
 @media (max-width: 576px) {
@@ -137,6 +147,12 @@
     font-size: 19px;
     color: #ffffff;
 }
+
+.infoGSTN {
+	margin-left: 0%;
+	text-align: center;
+}
+
 }
 
 @media (max-width: 480px) {}
@@ -164,4 +180,5 @@
     font-size: 19px;
     color: #ffffff;
 }
+
 }
